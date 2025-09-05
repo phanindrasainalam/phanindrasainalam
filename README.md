@@ -1,73 +1,56 @@
+# 👋 Hi, I'm Phanindra Sai Nalam  
 
-# 👋 Hi, I'm Phanindra Sai Nalam
-
-🎓 **Education**  
-- **Master's in Computer Science**, Lamar University, Texas, USA (Aug 2023 – May 2025), CGPA: 3.625/4  
-- **B.Tech in Computer Science & Engineering**, Eluru College of Engineering, India (Sep 2017 – May 2022), CGPA: 6.70/10  
-
-📚 **Relevant Coursework**: OOPs, DBMS, Web Technologies, Java, Machine Learning, Deep Learning
+🎓 Master's in Computer Science @ **Lamar University** (May 2025)  
+💻 Aspiring **Software Engineer | Full-Stack Developer | DevOps Enthusiast**  
+🌎 Passionate about building scalable web apps, cloud solutions, and applying ML/AI to solve real-world problems  
 
 ---
 
-## 💻 Technical Skills
-
-- **Proficient**: C, C++, Java, SQL, Python, MS Excel  
-- **Familiar**: HTML, CSS, JavaScript, Git  
-- **Basic**: Spring Boot, Machine Learning, Deep Learning  
-- **Tools & Platforms**: Visual Studio, VS Code, GitHub, MySQL  
+## 🔗 Connect with Me  
+- 📧 [Email](mailto:phanindrasainalam@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nphanindrasai)  
+- 💻 [GitHub](https://github.com/phanindrasainalam)  
 
 ---
 
-## 🧑‍💻 Experience
+## 🛠️ Technical Skills  
 
-**Front-End Developer Intern – Infotell**  
-📅 *May 2022 – June 2023*  
-- Built a service for daily automated unit testing to streamline bug detection and fix cycles.  
-- Automated test aggregation using Python & PowerShell for hardware-based deployment.  
-- Integrated Jenkins for CI/CD automation, reducing manual testing effort.  
-- Worked with cross-functional teams to build efficient, scalable web solutions.
+- **Languages:** Java, Python, C++, C, SQL, JavaScript, HTML, CSS  
+- **Frameworks & Tools:** Spring Boot, Angular, Bootstrap, Git, Jenkins, MySQL  
+- **Platforms:** Linux/Unix, Visual Studio, VS Code  
+- **Practices:** System Design, API Design, Unit Testing, CI/CD, SDLC, DSA  
 
 ---
 
-## 🚀 Projects
+## 💼 Experience  
 
-**🏠 House Price Prediction** *(Apr 2025)*  
-- Implemented end-to-end ML pipeline using Python to predict real estate prices.  
-- Compared 6 regression models; XGBoost yielded R² score of **0.8844**.  
-- Performed advanced techniques like outlier detection, scaling, and ensemble learning.
-
-**🛍️ Early Review Predictor** *(May 2021)*  
-- Built an e-commerce web app using Java, JSP, Servlets, and MySQL.  
-- Designed algorithms to analyze review patterns and predict early reviewers.  
-- Enabled data-driven insights for marketing strategies using margin-based embedding.
+### 🚀 Frontend Developer Intern @ Infotell (Oct 2022 – Jun 2023)  
+- Automated unit & integration testing using **JUnit/PyTest**, reducing bug detection time by 30%.  
+- Developed **Python & Shell scripts** to automate builds & deployments in Linux/Unix environments.  
+- Designed & maintained **CI/CD pipelines in Jenkins**, improving deployment efficiency by 25%.  
+- Built responsive UIs with **Angular, HTML, CSS, Bootstrap** in Agile/Scrum environment.  
+- Provided on-call support, ensuring system stability for 15+ engineers and 50+ daily builds.  
 
 ---
 
-## 🏅 Certifications
+## 📂 Projects  
 
-- ✅ **C Programming Certification**  
-- ✅ **AWS Solutions Architecture Job Simulation**  
-- ✅ **Developer Virtual Experience Program – Accenture**  
+- **🏠 House Price Prediction** (Python, ML, DL, XGBoost)  
+  - Built ML pipeline achieving **R² = 0.8844** with feature engineering & cross-validation.  
+  - Delivered **86.9% accuracy** for real-estate price prediction.  
+
+- **🛒 Early Review Predictor** (Java/J2EE, JSP, Servlets, MySQL)  
+  - Developed full-stack **e-commerce app** with RESTful APIs for user/product management.  
+  - Implemented early reviewer prediction algorithms & ranking models for better insights.  
 
 ---
 
-📫 **Reach Me**  
-- ✉️ phanindrasainalam@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nphanindrasai/)  
-- 💻 [GitHub](https://github.com/phanindrasainalam)
+## 🏆 Certifications & Achievements  
 
+- Certification in **C Programming**  
+- **AWS Solutions Architecture Job Simulation** (Forage) – Designed scalable hosting architectures  
+- **Accenture Developer Virtual Experience** (Forage) – Defined requirements & scaled systems to the cloud  
 
-<!--
-**phanindrasainalam/phanindrasainalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ *"Passionate about learning, solving problems, and building impactful software."*  
