@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Phanindra Sai Nalam  
 
-🎓 Master's in Computer Science @ **Lamar University** (May 2025)  
+  
 💻 Aspiring **Software Engineer | Full-Stack Developer | DevOps Enthusiast**  
 🌎 Passionate about building scalable web apps, cloud solutions, and applying ML/AI to solve real-world problems  
 
